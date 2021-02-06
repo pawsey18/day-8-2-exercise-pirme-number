@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Printer of nested lists with Range"
+name = "range"
+optional = false
+python-versions = "*"
+version = "1.0.0"
+
+[metadata]
+content-hash = "6a556f735f76cce5838b9f6b7c934b883d2394303d0795f6cde3b3dce6a9b6c9"
+python-versions = "^3.8"
+
+[metadata.files]
+range = [
+    {file = "range-1.0.0.zip", hash = "sha256:81bb6bdcfacb33c805c8360a2f8d5c541fad4c67798dd03a8f283e6a1edb8bc0"},
+]
